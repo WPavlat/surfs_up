@@ -5,6 +5,7 @@ This analysis reviews a number of geographical statistics pertaining to the clim
 
 ## Results
 ![temperature table](surfs_up/surfs_up_charts.png)
+
 - Both December and June have reasonably similar Mean temperatures in the low 70's.
 - Neither of the months have excessively high Maximum temperatures and are both within a degree of 84 degrees.
 - The primary difference is in the minimum temperatures and the standard deviation, with Decemeber having lower lows.
